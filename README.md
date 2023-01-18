@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/113465005/213256471-04917667-69ab-4126-8cc6-72bc940f0fe0.png)
+
+
 # Retail Recommender Solution Offering
 The Retail Recommender Solution Offering unlocks data for clients to provide specific recommendations across item features such as; products, product categorites, sellers, customers, reviews on products, and more.
 
