@@ -1,5 +1,5 @@
-# Retail Recommender System Accelerator 
-The Retail Recommender System Accelerator unlocks data for clients to provide specific recommendations across item features such as; products, product categorites, sellers, customers, reviews on products, and more.
+# Retail Recommender Solution Offering
+The Retail Recommender Solution Offering unlocks data for clients to provide specific recommendations across item features such as; products, product categorites, sellers, customers, reviews on products, and more.
 
 # Prerequisites
 * add in from email 
