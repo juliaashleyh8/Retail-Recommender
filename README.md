@@ -4,7 +4,7 @@
 # Retail Recommender Solution Offering
 The Retail Recommender Solution Offering unlocks data for clients to provide specific recommendations across item features such as; products, product categorites, sellers, customers, reviews on products, and more.
 
-![Link to Introductory Offering Workshop Deck](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fjuliaashleyh8%2FRetail-Recommender%2Fmain%2FRecomender-Presentation%2520-%2520Pitch%2520Deck.pptx&wdOrigin=BROWSELINK)
+![Link to Introductory Offering Workshop Deck]([https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fjuliaashleyh8%2FRetail-Recommender%2Fmain%2FRecomender-Presentation%2520-%2520Pitch%2520Deck.pptx&wdOrigin=BROWSELINK](https://github.com/juliaashleyh8/Retail-Recommender/blob/main/Recomender-Presentation%20-%20Pitch%20Deck.pptx?raw=true))
 
 # Prerequisites
 * TBD: add in from email 
